@@ -1,5 +1,5 @@
 main{
-    padding: 15px;
+    padding: 50px;
 }
 
 .cactus{
@@ -26,4 +26,21 @@ main{
     margin-top: 0px;
     font-size: smaller;
     font-weight: bolder;
+}
+
+.title{
+    font-family: "Sora", sans-serif;
+    margin-bottom: 9px;
+}
+
+hr{
+    margin-top:    40px;
+    margin-bottom: 40px;
+}
+
+.description{
+    font-family: "Sora";
+    color: rgba(128, 128, 128, 0.701);
+    font-weight: lighter;
+    margin-top: 0px;
 }
